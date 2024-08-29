@@ -1,8 +1,6 @@
 
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
 
+![Screenshot (63)](https://github.com/user-attachments/assets/6b24974b-5ce8-4203-a763-143ebc418e78)
 <br/>
 
 
