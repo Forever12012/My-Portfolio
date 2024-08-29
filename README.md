@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img alt="Demo" src="./Images/readme.png" />
+  <img alt="Demo" src=".My-Portfolio/Images/readme.png" />
 </div>
 
 <br/>
