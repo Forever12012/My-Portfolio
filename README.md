@@ -1,7 +1,5 @@
 
-<div align="center">
-  <img alt="Demo" src=".My-Portfolio/Images/readme.png" />
-</div>
+
 
 <br/>
 
